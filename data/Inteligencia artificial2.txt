@@ -1,0 +1,264 @@
+Inteligencia artificial – Historia de la inteligencia artificial
+1. INTRODUCCIÓN
+A lo largo de este tema se expondrá la historia de la inteligencia artificial, desde su nacimiento
+a mediados de 1950 hasta la actualidad. En cada década se mencionarán los principales
+avances, investigadores de renombre y técnicas desarrolladas.
+
+4Inteligencia artificial – Historia de la inteligencia artificial
+2. EL NACIMIENTO DE LA INTELIGENCIA ARTIFICIAL
+Como se mencionó en el tema introductorio, la inteligencia artificial se popularizó gracias a los
+computadores. Anteriormente a esa unión tan sólo existían corrientes filosóficas o algún
+ensayo que hablaba sobre si era posible dotar de inteligencia a seres que no la tenían. Los
+investigadores encontraron muy potente dicha unión. No obstante, los primeros trabajos no
+surgieron hasta 1950 con la llegada de Alan Turing.
+Alan Turing, (1912-1954), fue un científico
+matemático británico de gran reputación. Se
+le considera el padre de la informática teórica
+y la inteligencia artificial.
+Durante la II Guerra Mundial, Turing trabajó
+en Bletchley Park [1], la sede secreta del
+gobierno donde matemáticos e ingenieros
+trataban de descifrar los mensajes que
+capturaban por radio del bando alemán. Los
+alemanes utilizaban una máquina llamada
+Enigma para cifrar sus mensajes. Así pues,
+Turing ideó y construyó la máquina ‘The
+Turing Bombe’, la cuál era capaz de descifrar
+Ilustración 1: Fotografía de Alan Turing
+de
+forma
+automática
+dichos
+mensajes
+siempre que se configurase cada una de sus
+bobinas con la clave adecuada (cambiaba cada día).
+5
+Inteligencia artificial – Historia de la inteligencia artificial
+Ilustración 2: Réplica de The Turing Bombe que se puede visitar en Bletchley Park
+La máquina estaba compuesta de un número determinado de bobinas que actuaban como
+estados una vez configurados con la supuesta clave diaria. Para descifrar cada letra sólo
+tendríamos que seguir el recorrido que indicaban dichos estados y encontrar la letra descifrada
+equivalente. La máquina de Turing se considera la primera máquina computacional de la
+historia. Permitió acelerar la interpretación de mensajes en clave y como consecuencia, acortar
+la duración de la guerra y ganarla.
+No terminó ahí la contribución de Alan Turing a la ciencia. Una vez terminó la guerra trabajó
+para varias universidades como matemático especializado en computación. A finales de la
+década de los 40 investigaba sobre la posibilidad de que una máquina imitase el
+comportamiento de la mente humana. Dicha investigación se publica en 1950 con el título
+“Computing Machinery and Intelligence [2] en el volumen 59 de la revista “Mind”, generando en
+el gremio una gran admiración y curiosidad ante el planteamiento tan abstracto y futurista. En
+ese artículo científico, Turing propone el conocido desde entonces como “test de Turing” del
+que hablaremos en el próximo tema. La grandeza de su propuesta aunó los mundos de las
+matemáticas, la lógica, la algoritmia y la computación para crear el novedoso campo de la
+inteligencia artificial (aunque él nunca le dio ese nombre).
+
+6Inteligencia artificial – Historia de la inteligencia artificial
+Los trabajos de Alan Turing, tanto en su etapa dentro del servicio de inteligencia británico como
+en su etapa académica, pueden verse en Bletchley Park, que se encuentra a media hora de
+Londres en tren.
+Ilustración 3: Estatua en honor de Alan Turing que puede visitarse en Bletchley Park
+7
+Inteligencia artificial – Historia de la inteligencia artificial
+3. LA DÉCADA DE LOS 50-60
+En 1956, en la conferencia "Dartmouth Summer Research Conference on Artificial Intelligence”
+[3], es donde se reconoce oficialmente la inteligencia artificial como área dentro de la
+computación. La conferencia contó con grandes personalidades del mundo de la computación,
+como John McCarthy, Marvin L. Minsky, Claude E. Shannon, Herbert Simon y Allen Newell. La
+conferencia sirvió, entre otras cosas, para definir las líneas de trabajo futuras de este nuevo
+campo bajo mutuo acuerdo. Las directrices se resumieron en la siguiente frase: “Todo aspecto
+de aprendizaje o cualquier otra característica de inteligencia puede ser definido de forma tan
+precisa que puede construirse una máquina para simularlo”. De esta forma, los investigadores
+se centraron en desarrollar modelos abstractos basados en el razonamiento computacional y
+matemático.
+Ilustración 4: John McCarthy
+© Structuralia
+Ilustración 5: Marvin Minsky
+8Inteligencia artificial – Historia de la inteligencia artificial
+Ilustración 6: Claude E. Shannon
+9
+Ilustración 7: Herbert Simon y Allen Newell
+Inteligencia artificial – Historia de la inteligencia artificial
+4. LA DÉCADA DE LOS 60-70
+Tras el establecimiento de esas líneas generales para avanzar en el campo de la inteligencia
+artificial, los años posteriores resultaron tan alentadores como decepcionantes al mismo
+tiempo. Hubo algunos avances, pero tomaban más tiempo del esperado y tanto la prensa como
+los fondos públicos y privados comenzaron a cuestionar la valía de la inteligencia artificial
+según pasaban los años.
+El campo era prometedor cuanto menos, sobre todo al inicio de la década de los 60, y como se
+mencionaba con anterioridad, se trabajó en proyectos que avanzaron en bots que interactúan
+(ELIZA [4]), resolución de problemas mediante algoritmos de búsqueda (GPS [5]),
+micromundos, el perceptrón [6], LISP [7] etc. A continuación, se describen brevemente.
+4.1 ELIZA
+Fue un programa informático desarrollado por el Massachusetts Institute of Technology
+(Boston, USA) que simulaba a una psicóloga (máquina) atendiendo a un paciente (usuario).
+Era capaz de procesar el texto recibido como entrada y ofrecer una respuesta. La calidad de
+las respuestas era muy variable, no funcionaba bien con frases hechas o implícitas.
+4.2 General Problem Solver (GPS)
+Ideado por Simon y Newell, su principal objetivo era el de resolver cualquier problema lógico de
+forma generalista, es decir, sin estar diseñado a priori para el mismo. El único requisito era que
+el usuario introdujese los movimientos permitidos y la base de conocimiento inicial. GPS sería
+capaz de desarrollar una heurística para resolverlo y llegar del estado inicial al final (meta).
+4.3 LISt Processor (LISP)
+Inventado por McCarthy, es uno de los lenguajes de programación más antiguos que se
+centraba en la resolución de problemas por medio del manejo de listas con datos. Todas las
+sentencias comienzan con un paréntesis, se cierran con otro y siguen la notación polaca
+(operandos primero, datos o variables después). En la actualidad es muy extraño que se
+trabaje con este lenguaje por su complejidad para aprenderlo. Forma parte de la familia de
+lenguajes de programación funcionales.
+
+10Inteligencia artificial – Historia de la inteligencia artificial
+4.4 Micromundos
+La idea fue desarrollada por Minsky y Papiert y se basaba en ‘acotar’ el alcance del sistema
+para trabajar en su inteligencia. Debido a que conseguir que un ente fuese inteligente y
+autónomo era inalcanzable y que las investigaciones eran muy preliminares, si se trabajaba en
+entornos controlados donde sólo se pudiesen realizar un conjunto de acciones que generasen
+elementos en ese micromundo sería más sencillo desarrollar un sistema inteligente para el
+mismo.
+4.5 Perceptrón
+Su autor fue Rosenblatt y es la red base o más simple de las redes de neuronas artificiales que
+se utilizan hoy en día para resolver problemas con Machine Learning o Deep Learning. El
+perceptrón es un modelo matemático compuesto por elementos interconectados entre ellos
+llamados ‘neuronas’ (por su semejanza con las mismas). Esta red es capaz de aprender tras
+una serie de entrenamientos iterativos y una función de activación. Se explicará más adelante
+en el curso. Respecto a su historia, el perceptrón supuso un gran avance en el campo, pero no
+obtuvo los resultados esperados cuando la red se hacía más grande y compleja. Sus
+problemas de escalabilidad supusieron una pérdida de confianza y popularidad hacia la técnica
+desarrollada.
+11
+Inteligencia artificial – Historia de la inteligencia artificial
+5. LA DÉCADA DE LOS 80-90 Y EL “AI WINTER”
+Tras el auge, el fervor y futuro prometedor que despertó la inteligencia artificial, a finales de los
+70 las investigaciones y proyectos no avanzaban con la rapidez esperada. Los investigadores
+trabajan de una forma más madura y precavida; las propuestas de proyectos ya no son tan
+avariciosas. La inteligencia artificial evoluciona hacia un terreno más aplicado y deja a un lado
+los modelos teóricos y abstractos tan generalistas.
+La mayor parte de las investigaciones se centran en desarrollar sistemas expertos, que tal y
+como su nombre indica, se especializan en un campo concreto con el fin de dar respuestas a
+preguntas sobre la temática utilizando una base de conocimiento previamente establecida. Se
+utilizan como sistemas de apoyo a la decisión, por ejemplo, para la detección de patologías o
+de riesgo de fraude o impago.
+A pesar de ello, la prensa manifestó su escepticismo hacia todas esas promesas fallidas y
+retrasos en la implementación de los proyectos que aunaban una inteligencia artificial capaz de
+hacer casi cualquier cosa de forma autónoma. Además, los fondos públicos y privados que
+sustentaban esas líneas de investigación comenzaron a recortar o incluso a cancelar proyectos
+dada su poca viabilidad. La burbuja de la inteligencia artificial comenzó a colapsar, y en 1984,
+durante la conferencia de la American Association of Artificial Intelligence" (AAAI), Minsky y
+Schank acuñaron el término de “AI Winter” (el invierno de la inteligencia artificial) para referirse
+a este fenómeno que comenzó a mediados de los 70 y duró hasta mediados de los 90,
+advirtiendo a su vez a investigadores, empresas e instituciones de los peligros que conllevaba
+y de la sensatez que habría que mantener de ahora en adelante para poder avanzar en el
+campo.
+En 1996, el pesimismo sobre la inteligencia artificial dio un giro gracias a IBM, que captó la
+atención de la prensa y el público general con su supercomputadora “Deep Blue” [8]. El sistema
+era capaz de realizar cómputo paralelizado, por lo que aún los cálculos iban más rápido que
+trabajando con una computadora al uso. Para llamar la atención, a la empresa se le ocurrió
+retar a Gary Kaspárov, el campeón mundial de ajedrez de la época, a seis partidas. La primera
+vez Deepblue ganó 4-2 y, la segunda, en 1997, ganó 6-0. El impacto del evento fue mundial y
+de nuevo la inteligencia artificial suscitó ese interés generalizado que se había perdido con el
+paso de los años, incluso a pesar de que Kaspárov debía esperar bastante tiempo a que la
+máquina decidiese la siguiente jugada.
+© Structuralia
+12Inteligencia artificial – Historia de la inteligencia artificial
+Ilustración 8: Kasparov y DeepBlue compitiendo durante la partida de ajedrez
+13
+Inteligencia artificial – Historia de la inteligencia artificial
+6. DE LOS AÑOS 2000 A LA ACTUALIDAD
+Durante la década de los 2000 la inteligencia artificial fue avanzando
+en pequeños pasos. De vez en cuando captaba la atención del
+público general junto a la robótica. Fue la década del lanzamiento los
+robots asistentes. Asimo [9], por parte de HONDA, fue uno de los
+primeros en acaparar todas las miradas. Su principal función era
+ayudar a personas con movilidad reducida en sus tareas. Junto a
+Asimo surgieron muchos otros, como el perro-robot de SONY
+llamado Aibo o ya más adelante el robot Nao de Aldebaran Robotics
+[10] (ahora Softbank Robotics). El principal problema al que se
+enfrentaron las compañías era el elevado coste de producción y
+venta de los robots. Por este motivo el robot Roomba de iRobot tuvo
+más suerte, ya que la única función que cumple es la de limpiar el
+suelo y por ello toda la cadena de producción se abarata.
+En 2004 se produjo otro gran avance gracias a la agencia de defensa de los Estados Unidos,
+DARPA, al lanzar el DARPA Grand Challenge [11] a la comunidad científica. Era un reto con
+una recompensa de 1 millón de dólares para el equipo que consiguiese hacer circular de forma
+autónoma en el desierto un coche 4x4. El recorrido tenía 12 millas y todos los coches
+participantes correrían al mismo tiempo. Como consecuencia, se generó un gran interés por el
+vehículo autónomo y la conducción autónoma, así como hacia el campo de la visión artificial
+para procesar el entorno en tiempo real.
+Ilustración 9: Coche Stanley del DARPA Grand Challenge
+
+14Inteligencia artificial – Historia de la inteligencia artificial
+A la vez que se sucedían todos estos avances y eventos, la computación distribuida va
+cobrando más fuerza. Si un ordenador dispone de múltiples procesadores, puedo paralelizar
+partes de mi programa para ejecutarlo más rápido. Así fue como la escalabilidad de los
+sistemas mejoró en general y ayudó a la inteligencia artificial en particular. Todas las líneas de
+investigación sobre redes de neuronas, algoritmos de búsqueda, reconocimiento del habla, de
+imagen etc. que se habían parado por problemas de escalabilidad tenían de nuevo cabida
+gracias a este avance tecnológico.
+En 2010 se empezó a hablar de Machine Learning y de Big Data: llegaba el procesamiento
+masivo de datos. La inteligencia artificial salió del ámbito puramente científico para integrarse y
+crecer en las empresas. En la era digital, la posesión de datos de los usuarios significaba poder
+y dinero, y empresas como Google fueron primerizas en ponerlo en práctica. Productos
+gratuitos para el público a cambio de capturar cada uno de los movimientos de los usuarios con
+el fin de refinar y personalizar aún más el producto. Debido a ello, la mayoría de las empresas
+se centran en el usuario.
+A partir de 2015 la popularidad de la inteligencia artificial cobra tanta fuerza que ya nadie se
+imagina una vida ‘sin ella’. Surge una nueva línea de investigación llamada Deep Learning,
+inspirada en las redes de neuronas de los 80 pero mucho más potente a nivel computacional,
+que pone a todo el ecosistema en alerta. En 2016 la empresa DeepMind, posteriormente
+comprada por Google, consigue vencer al campeón mundial de Go 5-0 utilizando dicha técnica
+mediante su sistema Alpha Go [12]. El Go se considera uno de los juegos más complejos por la
+explosión combinatoria de sus movimientos. Dicha explosión combinatoria es el punto débil de
+cualquier computadora y con Deep Learning se ha conseguido minimizar.
+Por todos estos motivos, el campo más activo en este momento es Deep Learning en el ámbito
+académico y la transformación digital mediante Machine Learning/Big Data en el ámbito
+empresarial. Finalmente, se muestran dos gráficas de la popularidad que han tenido en el
+buscador de Google a lo largo de los años “artificial intelligence” y “artificial intelligence jobs”.
+Como se ha comentado previamente, a partir de 2015 la popularidad va en aumento hasta el
+día de hoy.
+15
+Inteligencia artificial – Historia de la inteligencia artificial
+Ilustración 10: Gráfica generada con Google Trends donde se observa la tendencia en alza de las búsquedas
+relacionadas con Inteligencia Artificial a partir de 2015
+Ilustración 11: Gráfica generada con Google Trends donde se observa el grandísimo reclamo de profesionales con
+conocimientos de inteligencia artificial a partir de 2015
+
+16Inteligencia artificial – Historia de la inteligencia artificial
+7. REFERENCIAS
+[1] Bletchley Park https://bletchleypark.org.uk/
+[2] A. M. Turing, Computing Machinery and Intelligence, Mind, New Series, Vol. 59, No. 236
+(Oct. 1950), pp. 433-460 http://phil415.pbworks.com/f/TuringComputing.pdf
+[3] J. McCarthy, M. L. Minsky, N. Rochester, and C. E. Shannon, A Proposal for the Dartmouth
+Summer Research Project on Artificial Intelligence, AI Magazine Vol. 27 Number 4 (2006).
+https://www.aaai.org/ojs/index.php/aimagazine/article/view/1904/1802
+[4] J Weizenbaum, ELIZA—a computer program for the study of natural language
+communication between man and machine- Communications of the ACM, Volume 9, Number 1
+(January 1966): 36-35 http://www.academia.edu/download/31085335/ElizaScript.pdf
+[5] A. Newell, J.C. Shaw, H. A. Simon Report on a General Problem Solving program (1958)
+http://bitsavers.informatik.uni-stuttgart.de/pdf/rand/ipl/P-1584_Report_On_A_General_Problem-
+Solving_Program_Feb59.pdf
+[6] Rosenblatt, F. (1958). The perceptron: A probabilistic model for information storage and
+organization
+in
+the
+brain. Psychological
+Review,
+65(6),
+386-408.
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf
+[7] J. McCarthy, Recursive Functions of Symbolic Expressions and Their Computation by
+Machine,
+Part
+I,
+Communications
+of
+the
+ACM,
+1960
+http://www-
+formal.stanford.edu/jmc/recursive.pdf
+[8] IBM Deepblue http://www-03.ibm.com/ibm/history/ibm100/us/en/icons/deepblue/
+[9] Robot Asimo http://asimo.honda.com/
+[10] SoftBank Robotics https://www.softbankrobotics.com/emea/en/index
+[11] Darpa GRAND Challenge https://www.darpa.mil/
+[12] Alpha Go, Deepmind https://deepmind.com/research/alphago/
+17
+

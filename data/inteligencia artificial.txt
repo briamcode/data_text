@@ -1,0 +1,180 @@
+1. INTRODUCCIÓN
+En este primer tema se presenta una introducción al campo de la inteligencia artificial, el cual
+exploraremos en cada uno de los temas posteriores. Se explica la motivación que hay detrás de
+la inteligencia artificial, así como la propia definición y objetivos. Finalmente se enmarca y se
+describe brevemente cada área de conocimiento que se tratará a lo largo de este curso.
+
+4Inteligencia artificial – Introducción
+2. MOTIVACIÓN
+Desde que el ser humano comenzó a tener uso de razón, hace más de 300.000 años, nunca ha
+cesado en amplificar y mejorar el desarrollo y las capacidades de su cerebro. Cuando somos
+pequeños, ya nuestros padres y nuestros profesores en el colegio nos enseñan diferentes
+ejercicios con los que estimular nuestro cerebro en combinación con lo que percibimos a través
+de los sentidos. De esta forma podríamos clasificar una serie de habilidades que nos permiten
+desarrollar nuestra inteligencia con mayor efectividad:
+▪Inteligencia visual: identificación de imágenes, colores y formas.
+▪Inteligencia auditiva: reconocer sonidos, frecuencias, melodías etc.
+▪Inteligencia motriz: utilizar el cuerpo para expresarse incluyendo coordinación,
+destreza, equilibrio, fuerza etc.
+▪
+Inteligencia gustativa: identificar y clasificar los sabores o sensaciones que nos
+producen los alimentos y bebidas.
+▪
+Inteligencia olfativa: identificar y clasificar los olores.
+Como habrá podido observar, este grupo de ‘inteligencias’ está directamente relacionado con
+nuestros cinco sentidos. Esta es la única forma que tiene el ser humano de obtener, por sí mismo,
+información del entorno para posteriormente procesarla.
+Durante 2000 años grandes filósofos, pensadores y científicos han mostrado su total admiración
+al cerebro y han tratado de ‘entenderlo’. ¿Por qué solo el ser humano es capaz de desarrollar su
+inteligencia? Además, se han planteado la siguiente pregunta, ¿Y si fuese posible replicar el
+funcionamiento del cerebro en cuerpos no inteligentes, vivos o inertes?
+Con la llegada de los ordenadores alrededor de 1950, los científicos vieron una gran oportunidad
+para convertir a esas máquinas, con mayor capacidad de cómputo que los propios humanos, en
+ese sistema artificial inteligente que tanto habían soñado. La teoría pasó a la práctica y se
+llevaron a cabo los primeros experimentos con programas rudimentarios que mostraban algún
+que otro signo de razonamiento lógico. Con los años, los periodistas se interesaban cada vez
+más por este tipo de avances – es sencillo vender titulares con ello – así que no es de extrañar
+que se generase un clamor popular por saber cuándo se iban a “construir cerebros electrónicos”
+o cuándo “dotaríamos con esa inteligencia artificial a los robots”. Por supuesto, el cine hizo el
+resto alimentando nuestra propia imaginación y teorías en la gran pantalla. De repente, la
+inteligencia artificial estaba en boca de todos, pero… ¿Qué es realmente inteligencia artificial?
+5
+Inteligencia artificial – Introducción
+3. ¿QUÉ ES LA INTELIGENCIA ARTIFICIAL?
+La inteligencia artificial, en sus múltiples definiciones, engloba cualquier proyecto o sistema que
+intente entender y replicar el comportamiento del cerebro humano. El objetivo es dotar de
+inteligencia a cuerpos no inteligentes a priori. Las siguientes figuras muestran elementos de
+nuestro día a día a los que hemos dotado de ‘inteligencia’: un robot humanoide, un smartphone
+o teléfono inteligente y un coche autónomo. Son tres ejemplos de los muchos que nos rodean.
+Ilustración 1: Robot humanoide
+Ilustración 2: Smartphone con asistente de voz
+
+6Inteligencia artificial – Introducción
+Ilustración 3: Coche eléctrico autónomo
+Desde 2014 en adelante hemos vivido el ‘boom’ de la inteligencia artificial, aunque ésta es una
+disciplina que, como se mencionó en la sección anterior, cobra fuerza en la segunda mitad del
+siglo XX. Dentro del libro de referencia “Artificial Intelligence: A Modern Approach” [1], Russell y
+Norvig identifican cuatro grupos en los cuales englobar diferentes definiciones sobre inteligencia
+artificial propuestas por científicos, escritores o entidades a lo largo de estos años.
+▪
+Sistemas que piensan como humanos.
+«El nuevo y excitante esfuerzo de hacer que los computadores piensen… máquinas con
+mentes, en el más amplio sentido literal». (Haugeland, 1985).
+«La automatización de actividades que vinculamos con procesos de pensamiento
+humano, actividades como la toma de decisiones, resolución de problemas,
+aprendizaje…» (Bellman, 1978).
+▪ Sistemas que piensan racionalmente.
+«El estudio de las facultades mentales mediante el uso de modelos computacionales».
+(Charniak y McDermott, 1985).
+«El estudio de los cálculos que hacen posible percibir, razonar y actuar». (Winston, 1992).
+7
+Inteligencia artificial – Introducción
+▪ Sistemas que actúan como humanos.
+«El arte de desarrollar máquinas con capacidad para realizar funciones que cuando son
+realizadas por personas requieren de inteligencia». (Kurzweil, 1990).
+«El estudio de cómo lograr que los computadores realicen tareas que, por el momento,
+los humanos hacen mejor». (Rich y Knight, 1991).
+«Disciplina científica que se ocupa de crear programas informáticos que ejecutan
+operaciones comparables a las que realiza la mente humana, como el aprendizaje o el
+razonamiento lógico». (Real Academia Española, 2018).
+▪ Sistemas que actúan racionalmente.
+«La Inteligencia Computacional es el estudio del diseño de agentes inteligentes». (Poole,
+1998).
+«IA… está relacionada con conductas inteligentes en artefactos». (Nilsson, 1998).
+De estos cuatro grupos se puede extraer lo siguiente:
+▪ Se persigue aplicar esa inteligencia artificial a una máquina, generalmente computadora
+u ordenador tal y como lo nombramos actualmente.
+▪ El comportamiento exhibido por el ordenador debe ser similar al que llevaría a cabo un
+humano.
+▪ Las respuestas obtenidas a través del ordenador deben ser similares a las que daría un
+humano.
+▪ El ordenador debe simular una capacidad lógica y racional a la hora de procesar el
+conocimiento.
+Para cumplir con estas cuatro premisas, los sistemas basado en inteligencia artificial que
+pretendan emular el comportamiento humano al completo deben precisar de, como mínimo,
+habilidades de percepción, razonamiento, predictivas y de manipulación. Como consecuencia,
+la inteligencia artificial está dividida en múltiples áreas, cada una especializada en una de estas
+habilidades.
+
+8Inteligencia artificial – Introducción
+4. ÁREAS DE CONOCIMIENTO
+En este curso se tratarán seis áreas de la inteligencia artificial, las que se consideran esenciales
+y más importantes. Son las siguientes:
+▪ Representación del conocimiento (Knowledge representation).
+▪ Razonamiento automático (Automated reasoning).
+▪ Aprendizaje automático (Machine learning).
+▪ Visión por computador (Computer visión).
+▪ Procesamiento del lenguaje natural (Natural language processing).
+▪ Robótica (Robotics).
+A continuación, se describe brevemente cada una de ellas.
+4.1 Representación del conocimiento
+Es el área de la inteligencia artificial que estudia la mejor forma de representar la información.
+Dicha información se conoce a priori y facilitará la resolución del problema. En función de la
+complejidad de la representación será más sencillo o más complicado para el ordenador
+identificar nueva información o ayudar a extraer conclusiones. Generalmente, para representar
+el conocimiento relativo a un problema se utilizan jerarquías y relaciones entre los elementos.
+Un ejemplo de representación de conocimiento que será familiar para ti es la tabla periódica de
+los elementos. Se predispone un orden, un conjunto de grupos y valores unívocos que identifican
+rápidamente a cada elemento.
+9
+Inteligencia artificial – Introducción
+Ilustración 4: Tabla de los elementos químicos; ejemplo de representación del conocimiento
+4.2 Razonamiento automático
+Es el área de la inteligencia artificial que desarrolla algoritmos para simular la inferencia de
+conocimiento. La capacidad de inferencia es un rasgo característico de los humanos; dada una
+base de conocimiento y un problema somos capaces de razonar sobre el mismo y, con las
+técnicas adecuadas, proponer una solución al mismo. El ordenador será entonces capaz de
+resolver el problema utilizando la base de conocimiento que haya sido previamente establecida
+y técnicas de satisfacibilidad lógica, planificación automática o búsqueda heurística. Un ejemplo
+común de inferencia y razonamiento sería la resolución del cubo de Rubik. Una vez asimilamos
+cómo funciona cada una de las caras, cuál es el color clave de cada una de ellas etc., con una
+serie de movimientos ordenados somos capaces de resolverlo.
+Ilustración 5: Cubo de Rubik
+
+10Inteligencia artificial – Introducción
+4.3 Aprendizaje automático
+Es el área de la inteligencia artificial que se encarga del procesamiento de datos para identificar
+grupos de comportamiento similares, tendencias, predicciones etc. El proceso de aprendizaje se
+logra entrenando el sistema con un conjunto de datos. Como resultado, el proceso de Machine
+Learning devolverá un modelo que será el que clasifique o identifique la nueva información.
+Disponer de un modelo y mejorarlo con futuros entrenamientos convierte al sistema en un
+‘experto’ frente al problema a resolver. El símil se puede apreciar en la siguiente figura, como
+cuando las personas decidimos estudiar una carrera, un máster y un doctorado en un área de
+conocimiento específica. Nuestra experiencia previa hace que seamos capaces de tener criterio
+a la hora de tomar decisiones acertadas o beneficiosas.
+Ilustración 6: Robot leyendo para 'aprender' nuevo conocimiento (metáfora)
+4.4 Visión artificial
+Es el área de la inteligencia artificial que se encarga de reconocer de forma autónoma elementos
+o situaciones a través de imágenes o grabaciones en tiempo real. Mediante este tipo de sistemas
+se pueden reconocer emociones en usuarios, situaciones de peligro, estado de las piezas de una
+cadena de montaje etc. En la siguiente figura se muestra un ejemplo de reconocimiento de
+vehículos en carretera, el cuál podría utilizarse para detectar aquellos que sobrepasan el límite
+de velocidad establecido.
+11
+Inteligencia artificial – Introducción
+Ilustración 7: Detección automática de vehículos utilizando visión artificial
+4.5 Procesamiento del lenguaje natural
+Es el área de la inteligencia artificial que se encarga del reconocimiento del lenguaje. Dentro de
+ese campo se encuentran varias tareas: reconocer el lenguaje a través de la voz, procesar
+sintáctica y semánticamente lo escuchado, comprender qué ha dicho el sujeto y elaborar una
+frase que se adecúe al contexto para responder al sujeto y reproducirla. Adicionalmente, también
+podría haber una tarea de traducción cuando el audio se reciba en un idioma diferente al
+programado.
+Ilustración 8: Escena de interlocución entre dos personas que no hablan el mismo idioma
+
+12Inteligencia artificial – Introducción
+4.6 Robótica
+Es un área de la computación en el que la inteligencia artificial ha tenido un papel determinante
+a la hora de evolucionar el software de dichos robots para hacerlos ‘inteligentes’. En los años 80,
+los robots eran muy toscos, estaban hechos de materiales pesados y su movilidad era muy
+reducida. Por este motivo, la industria se centró en mejorar el ‘hardware’ (la parte física, tangible)
+del robot y el software se quedó en un segundo plano. Con los años y debido a popularidad que
+gana la inteligencia artificial y la mejora del hardware, se empiezan a incluir componentes o
+módulos a los sistemas robóticos para mejorar la interacción con el entorno y los humanos. Las
+cinco áreas explicadas previamente están, por lo general, incluidas en los robots 100%
+autónomos.
+Ilustración 9: robot autónomo de la compañía Boston Dynamics
+13
+Inteligencia artificial – Introducción
+5. REFERENCIAS
+[ 1] S. J. Russell and P. Norvig, Artificial Intelligence: A Modern Approach 3 rd Ed. (1994) http://aima.cs.berkeley.edu/.
